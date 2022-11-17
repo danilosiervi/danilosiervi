@@ -23,7 +23,9 @@
 
   #### 📲 Contatos:
   <div>
-    <a href="linkedin.com/in/danilo-siervi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/danilo-siervi-5b9508256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
 ##
+
+  
