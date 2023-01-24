@@ -1,21 +1,17 @@
 ![scaler-create-impact](https://user-images.githubusercontent.com/71851373/202517186-b185c79e-18ea-4e52-addb-98d8b98349c5.gif)
 
-# Hello, Devs!!
-### Sou Danilo Siervi, entusiasta em programação
+<h1>
+  hello, devs :wave:
+</h1>
+<h2>
+  Sou Danilo Siervi, entusiasta em programação
+</h2>
 
-- 🤖 Cursando Engenharia Mecatrônica 
-- 🎓 Aperfeiçoando habilidades na Alura 
-- 🚀 Speed Wiz Dev - Wiz Soluções 
+- 🤖 Cursando Engenharia Mecatrônica.
+- 🎓 Aperfeiçoando habilidades na Alura.
+- 🚀 Speed Wiz Dev - Wiz Soluções.
 
-##
-
-<div>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiervi&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilosiervi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-##
+---
 
   #### 🧠 Tecnologias:
 
@@ -30,5 +26,3 @@
   </div>
 
 ##
-
-  
