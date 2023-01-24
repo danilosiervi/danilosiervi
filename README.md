@@ -12,6 +12,8 @@
 - 🚀 Speed Wiz Dev - Wiz Soluções.
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiervi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+---
 
   #### 🧠 Tecnologias:
 
