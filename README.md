@@ -10,17 +10,16 @@
 ##
 
 <div>
-  <a href="https://github.com/danilosiervi">
+  <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiervi&layout=compact&langs_count=7&theme=dracula"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosiervi&layout=compact)](https://github.com/danilosiervi/github-readme-stats)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilosiervi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
 
   #### 🧠 Tecnologias:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="40" height="40"/>
 
 ##
 
