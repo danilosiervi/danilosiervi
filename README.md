@@ -9,6 +9,7 @@
 
 - 🤖 Cursando Engenharia Mecatrônica.
 - 🎓 Aperfeiçoando habilidades na Alura.
+- 💻 Aprendendo tecnologias na Udemy.
 - 🚀 Speed Wiz Dev - Wiz Soluções.
 
 ---
