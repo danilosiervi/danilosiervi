@@ -7,7 +7,7 @@
   Sou Danilo Siervi, entusiasta em programação
 </h2>
 
-- 🤖 Cursando Engenharia Mecatrônica.
+- :computer: Cursando Engenharia Mecatrônica.
 - 🎓 Aperfeiçoando habilidades na Alura.
 - 💻 Aprendendo tecnologias na Udemy.
 - 🚀 Speed Wiz Dev - Wiz Soluções.
